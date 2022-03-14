@@ -1,6 +1,9 @@
 ## Development of a Plant Growth Chamber with Open Source Architechtures
+
 **Author:** Citlali Melchor Ramírez 
+
 **Supervisor:** Efrén Fitz Rodríguez (PhD)
+
 **Date:** June 2018
 
 This project was developed as a Bachelor Thesis at *Chapingo Autonomous University*. It was awarded with Cum Laude and resulted in the patent [MX2018015925 (A) ― 2020-02-10](https://lp.espacenet.com/publicationDetails/biblio?II=0&ND=3&adjacent=true&locale=es_LP&FT=D&date=20200210&CC=MX&NR=2018015925A&KC=A)
