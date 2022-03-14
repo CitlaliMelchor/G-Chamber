@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Development of a Plant Growth Chamber with Open Source Architechtures
 
-You can use the [editor on GitHub](https://github.com/CitlaliMelchor/G-Chamber/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Abstract
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Plant growth chambers are artificially lighted enclosed spaces in which environmental factors are controlled for observing plant responses to them. However, they are devices that usually are costly and not readily available locally. Therefore, it is proposed to develop a plant growth chamber with open-source architectures, capable of achieving preset environmental control to perform plant responses experiments. The engineering adaptive design methodology was applied to construct a prototype with readily available materials and components. The developed prototype allowed for monitoring and controlling environmental conditions such as air temperature, relative humidity, CO2 concentration and plant photoperiod. The system was evaluated with different environmental configurations, nine with no plants and three with plants (cucumber seedlings). The developed device has an operating range of 20 to 40°C and from 2 to 25°C for air temperature on the daylight time and dark time, respectively. For CO2 enrichment it is capable of operating in the range of 400 to 2000 ppm. The web-based user interface allows for the remote monitoring of the climate and the development of the seedlings.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CitlaliMelchor/G-Chamber/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Keywords:** environmental control, carbon dioxide enrichment, seedling production, biosystem, indoor farming.
